@@ -1,0 +1,42 @@
+.chat-textarea {
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 4px;
+	background: white;
+	width: 700px;
+	height: 500px;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 15px;
+	resize: none;
+	color: #272125;
+
+}
+.chat-input {
+	width: 500px;
+	height: 40px;
+	border-radius: 4px;
+	border-width: 0px;
+	font-size: 20px;
+	padding-left: 15px;
+	color: #272125;
+	margin-top: 20px;
+	background: white;
+	margin-left: 20px;
+	float: left;
+}
+.chat-btn {
+	width: 195px;
+	height: 40px;
+	border-radius: 5px;
+	border: 0px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	float: left;
+	font-size: 19px;
+	background: #1BBC9B;
+	transition: 0.1s ease-in-out;
+	cursor: pointer;
+}

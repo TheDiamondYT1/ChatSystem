@@ -1,0 +1,110 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.user {
+	width: calc(100% - 20px);
+	min-width: ;
+	height: 52px;
+	color: white;
+	padding-left: 20px;
+	line-height: 50px;
+	font-size: 25px;
+	background: white;
+	transition: 0.1s ease-in-out;
+}
+.user:hover {
+	background: #EAEDF1;
+}
+.user-hld {
+	width: 350px;
+	height: 50px;
+	margin-top: 0px;
+	float: left;
+}
+.user-title {
+	width: calc(100% - 40px);
+	height: 50px;
+	margin-left: 20px;
+	padding-left: 20px;
+	border-radius: 4px;
+	color: #4F4F4F;
+}
+.user-active {
+	width: 60px;
+	height: 50px;
+	float: right;
+	text-align: center;
+	font-size: 16px;
+}
+.user-active i {
+	line-height: 55px;
+	color: #34495e;
+}
+.user-edit {
+	width: 50px;
+	height: 50px;
+	float: right;
+	text-align: center;
+	font-size: 16px;
+}
+.user-edit i {
+	line-height: 55px;
+	color: #3392DF;
+}
+.user-delete {
+	width: 50px;
+	height: 50px;
+	float: right;
+	text-align: center;
+	font-size: 16px;
+}
+.user-delete i {
+	line-height: 50px;
+	color: #F96B57;
+}
+.user-item-data-succeed {
+	width: calc(100% - 80px);
+	height: 20px;
+	color: #8dc550;
+	font-weight: 700;
+	line-height: 20px;
+	margin-left: 20px;
+	padding-left: 20px;
+	margin-top: 20px;
+	border-radius: 4px;
+}
+.user-item-data-error {
+	width: calc(100% - 80px);
+	height: 20px;
+	color: #F4452E;
+	line-height: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding-left: 20px;
+	border-radius: 4px;
+}
+.hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	height: 2px;
+	background: #EBEEF3;
+	border-width: 0px;
+	width: 100%;
+}
+.user-name {
+	font-size: 25px;
+	float: left;	
+}
+.user-rank {
+	font-size: 15px;
+	float: left;
+}
+.admin {
+	color: #F96B57;
+}

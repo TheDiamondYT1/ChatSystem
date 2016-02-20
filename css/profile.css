@@ -1,0 +1,17 @@
+.username {
+	line-height: 40px;
+	width: 555px;
+}
+.profile-item-data-succeed {
+	height: 25px;
+	color: #8dc550;
+	font-weight: 700;
+	line-height: 20px;
+	margin-top: 10px;
+}
+.profile-item-data-error {
+	height: 25px;
+	color: #F4452E;
+	line-height: 20px;
+	margin-top: 10px;
+}
